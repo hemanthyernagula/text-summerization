@@ -1,0 +1,7 @@
+.ipynb_checkpoints/Lab_3_fine_tune_model_to_detoxify_summaries-checkpoint.ipynb
+.ipynb_checkpoints/text_summerization-checkpoint.ipynb
+peft-dialogue-summary-checkpoint-from-s3/adapter_config.json
+peft-dialogue-summary-checkpoint-from-s3/adapter_model.bin
+peft-dialogue-summary-checkpoint-from-s3/special_tokens_map.json
+peft-dialogue-summary-checkpoint-from-s3/tokenizer_config.json
+peft-dialogue-summary-checkpoint-from-s3/tokenizer.json
